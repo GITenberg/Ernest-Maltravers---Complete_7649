@@ -51,7 +51,7 @@ DEDICATION:
 PREFACE TO THE EDITION OF 1840.
 
 HOWEVER numerous the works of fiction with which, my dear Reader, I
-have trespassed on your attention, I leave published but three, of any
+have trespassed on your attention, I have published but three, of any
 account, in which the plot has been cast amidst the events, and coloured
 by the manner, of our own times. The first of these, _Pelham_, composed
 when I was little more than a boy, has the faults, and perhaps the
@@ -15765,7 +15765,7 @@ THE END
 
 
 
-End of the Project Gutenberg EBook of Ernest Maltravers, Complete, by 
+End of the Project Gutenberg EBook of Ernest Maltravers, Complete, by
 Edward Bulwer-Lytton
 
 *** END OF THIS PROJECT GUTENBERG EBOOK ERNEST MALTRAVERS, COMPLETE ***
